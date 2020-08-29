@@ -1,11 +1,19 @@
 {
   "name": "vue-resize-pane",
-  "version": "0.1.0",
-  "description": "vue resize pane",
-  "keyword": "vue resize-pane splitpane",
+  "version": "0.1.1",
+  "description": "Resizable split panes",
+  "keyword": [
+    "vue",
+    "resize-pane",
+    "splitpane"
+  ],
   "main": "packages/index.js",
   "author": "LiuChangkang",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiuChangkang/vue-resize-pane"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
