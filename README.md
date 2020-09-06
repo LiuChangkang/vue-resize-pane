@@ -13,7 +13,6 @@ yarn add vue-resize-pane
 ```
 import ResizePane from 'vue-resize-pane'
 Vue.use(ResizePane)
-
 ```
 ### or
 ```
